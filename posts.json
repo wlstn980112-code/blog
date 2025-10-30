@@ -9,7 +9,7 @@
     ],
     "category": "General",
     "description": "podong 블로그 소개 및 사용 방법",
-    "excerpt": "안녕하세요! podong 블로그에 오신 것을 환영합니다. 이 블로그는 GitHub Pages를 활용한 정적 블로그로, Vanilla JavaScript와 마크다운으로 운영됩니다. 1. 마크다운 지원 모든 게시글은 마크다운으로 작성되며, 자동으로 HTML로 변환됩니다. 2. 다크 모드 우측 상단의 /"  버튼을 클릭하여 다크..."
+    "excerpt": "안녕하세요! podong 블로그에 오신 것을 환영합니다. 이 블로그는 GitHub Pages를 활용한 정적 블로그로, Vanilla JavaScript와 마크다운으로 운영됩니다. 마크다운 지원, 다크/라이트 모드, 태그 필터링, 검색 기능, GitHub Discussions 기반 댓글 시스템을 제공합니다..."
   },
   {
     "file": "example-post.md",
