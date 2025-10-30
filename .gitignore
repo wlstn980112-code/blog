@@ -1,0 +1,51 @@
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Node
+node_modules/
+npm-debug.log
+yarn-error.log
+package-lock.json
+yarn.lock
+pnpm-lock.yaml
+
+# Other projects (ignore everything except blog files)
+AppData/
+.aws/
+.azure/
+.bun/
+.cache/
+.config/
+.cursor/
+.docker/
+.gemini/
+.local/
+.mcp-auth/
+AI_PM/
+emoji-random/
+my-app/
+todolist/
+Videos/
+Contacts/
+Documents/
+Downloads/
+Favorites/
+Links/
+Music/
+Saved Games/
+Searches/
+
+# Temporary files
+*.tmp
+*.log
+*.pid
+.env.local
+
